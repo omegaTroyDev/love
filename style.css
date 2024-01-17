@@ -41,6 +41,7 @@
     background: radial-gradient(circle, #F0CAAB 1vmin, #e8af80 3.5vmin, transparent 3.5vmin) 29vmin 61vmin/8vmin 6vmin no-repeat, radial-gradient(circle, #F0CAAB 1vmin, #e8af80 3.5vmin, transparent 3.5vmin) 71vmin 20vmin/6vmin 8vmin no-repeat, radial-gradient(circle, #B40001 20vmin, transparent 20vmin) 35vmin 5vmin/40vmin 40vmin no-repeat, radial-gradient(circle, #B40001 20vmin, transparent 20vmin) 15vmin 25vmin/40vmin 40vmin no-repeat, linear-gradient(90deg, #B40001 50vmin, transparent 50vmin) 35vmin 25vmin/40vmin 40vmin no-repeat;
   }
   
+  
   div.beloved:after {
     width: 100vmin;
     height: 100vmin;
